@@ -1,0 +1,1 @@
+  return static_cast<float>(number_1) / number_2;
